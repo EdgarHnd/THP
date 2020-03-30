@@ -1,0 +1,47 @@
+.container {
+    margin-top: 0px;
+}
+h1 {
+    color: tomato;
+}
+.navtext {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #222;
+    text-decoration: none;
+}
+.navtext:hover {
+    text-decoration: underline;
+}
+
+.item-top {
+    display: inline-block;
+    padding: 10px;
+}
+.navbar {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+.google {
+    font-size: 30px;
+    flex-direction: row;
+}
+
+.g {
+    color: rgb(11, 78, 221);
+}
+.o {
+    color: yellow;
+}
+.e {
+    color: red;
+}
+.l {
+    color: green;
+}
+

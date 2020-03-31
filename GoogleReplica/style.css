@@ -1,6 +1,6 @@
 @font-face {
     font-family: product-sans;
-    src: url(/sources/product-sans/Product\ Sans\ Regular.ttf);
+    src: url(sources/product-sans/Product\ Sans\ Regular.ttf);
   }
   html, body {
     padding: 0;
